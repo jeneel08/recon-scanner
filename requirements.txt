@@ -1,0 +1,8 @@
+# AutoRecon Python dependencies
+# All scanning is done via external tools; Python is the orchestrator.
+# No extra packages required beyond the standard library.
+# Add below if you extend the tool:
+
+# colorama    # cross-platform colors (optional, Windows users)
+# requests    # if you add custom HTTP checks
+# dnspython   # if you add DNS resolution helpers

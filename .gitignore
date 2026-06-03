@@ -1,0 +1,22 @@
+# Scan output
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+*.egg-info/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Wordlists (too large for git; downloaded by install.sh)
+wordlists/*.txt
